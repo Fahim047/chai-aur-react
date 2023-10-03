@@ -7,3 +7,7 @@
 ### 02 - Counter
 
 <p>Make a simple counter. It will increase the value of counter by 1 if I click on Add button and will decrease value if I click Remove. Counter's minimum value is 0 and maximum value 20.</p>
+
+### 03 - Tailwind Setup & Props
+
+<p>Tailwind CSS setup done. Learned about props in react. Passing props from parent component to child.</p>

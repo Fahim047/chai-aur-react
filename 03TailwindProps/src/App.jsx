@@ -1,8 +1,6 @@
-import { Fragment, useState } from 'react'
 import Item from './components/Item'
 
 function App() {
-  const [count, setCount] = useState(0)
   const imageArray = [
     "https://images.pexels.com/photos/2081199/pexels-photo-2081199.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "https://images.pexels.com/photos/1537671/pexels-photo-1537671.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
