@@ -11,3 +11,7 @@
 ### 03 - Tailwind Setup & Props
 
 <p>Tailwind CSS setup done. Learned about props in react. Passing props from parent component to child.</p>
+
+### 04 - Background Changer
+
+<p>Created a simple background changer. I used the concept of "useState" hook to create it.</p>
