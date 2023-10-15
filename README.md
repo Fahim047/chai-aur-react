@@ -15,3 +15,7 @@
 ### 04 - Background Changer
 
 <p>Created a simple background changer. I used the concept of "useState" hook to create it.</p>
+
+### 05 - Password Generator
+
+<p>Created a random password generator. I learned about "useCallBack", "useEffect" and "useRef" hooks.</p>
